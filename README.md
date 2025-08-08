@@ -1,5 +1,7 @@
 # Movie Fight
 
+https://lilimartinez23.github.io/movie-fight/
+
 Movie Fight is a fun web app where you can compare two movies side-by-side to see which one comes out on top. Using the [OMDb API](http://www.omdbapi.com/), the app fetches movie details, displays them in a clean interface, and highlights the winner based on various stats like awards, box office revenue, and ratings.
 
 ## Features
